@@ -6,11 +6,11 @@ https://templatemo.com/tm-516-known
 
 */
 
-  @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
+  @import url('https://fonts.googleapis.com/css?family=Muli:300,700');
 
   body {
     background: #ffffff;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Muli', sans-serif;
     overflow-x: hidden;
     padding-top: 70px;
   }
